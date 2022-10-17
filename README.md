@@ -5,5 +5,5 @@
 Krokový motor
 > Tohle je komentář
 
-- věc 1
-- věc 2
+- sotva se otáčelo
+- https://www.youngwonks.com/blog/How-to-use-a-stepper-motor-with-the-Raspberry-Pi-Pico
